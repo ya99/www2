@@ -1,6 +1,6 @@
 {
   "name": "Www2",
   "tagline": "",
-  "body": "#나연 팬입니다!\r\n![사진](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB3HrM90RosU6G_LZGB-K_7-PGk5tzMKnNGPLDV67A13gq33Fa)\r\n[나연 직캠](https://youtu.be/ofLKM2paaIc)\r\n",
+  "body": "#나연 팬입니다!\r\n[![사진](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB3HrM90RosU6G_LZGB-K_7-PGk5tzMKnNGPLDV67A13gq33Fa)](https://youtu.be/ofLKM2paaIc)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
